@@ -1,0 +1,67 @@
+.center {
+  text-align: center;
+}
+
+.image {
+  width: 50%;
+  height: 50%;
+}
+
+.Connor {
+  text-align: center;
+  margin: 0%;
+  position: relative;
+    background-color: #001845;
+   padding: 30px;
+    margin: 30px;
+   border: 2px solid #001845;
+    height: auto;
+}
+
+.Kara {
+  text-align: center;
+  margin: 0%;
+  position: relative;
+  background-color: #001845;
+  padding: 30px;
+  margin: 30px;
+  border: 2px solid #001845;
+  height: auto;
+}
+
+.Markus {
+  text-align: center;
+  margin: 0%;
+  position: relative;
+  background-color: #001845;
+  padding: 30px;
+  margin: 30px;
+  border: 2px solid #001845;
+  height: auto;
+}
+
+.top {
+  overflow: hidden;
+  background-color: #001233;
+}
+
+.top a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: lobster, helvetica, sans-serif;
+}
+
+.top a:hover {
+  background-color: rgba(255, 255, 255, 0.137);
+  color: black;
+}
+
+body {
+  background-color: #002855;
+  color:aliceblue;
+  font-family: "Times New Roman", Times, serif;
+}
